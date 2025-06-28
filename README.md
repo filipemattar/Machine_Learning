@@ -4,8 +4,11 @@ This repository contains a collection of Jupyter notebooks focused on data analy
 Contents:
 
 📊 Unsupervised Learning: Clustering techniques applied to data segmentation.
+
 🩺 Supervised Learning: Classification models for heart disease prediction
-⚡ Forecasting Models: Time series forecasting for energy load prediction.
+
+⚡ Forecasting Models: Time series forecasting for energy load prediction
+
 
 More notebooks and projects are currently in progress.
 
