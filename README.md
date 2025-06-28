@@ -1,10 +1,11 @@
-# Machine_Learning
+📦 Machine Learning Projects
+This repository contains a collection of Jupyter notebooks focused on data analysis, statistical modeling, and machine learning applications across various domains.
 
-Repo containing several notebooks with data analysis, data modeling and machine learning models.
+Contents:
 
-- Unsupervised Learning (clustering)
-- Supervised Learning (Heart Disease prediction)
-- Forecasting models for energy load.
+📊 Unsupervised Learning: Clustering techniques applied to data segmentation.
+🩺 Supervised Learning: Classification models for heart disease prediction
+⚡ Forecasting Models: Time series forecasting for energy load prediction.
 
-Currently working on more notebooks...
+More notebooks and projects are currently in progress.
 
